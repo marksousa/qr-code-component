@@ -1,0 +1,36 @@
+body {
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(212, 45%, 89%);
+}
+
+p {
+    font-size: 15px;
+}
+
+.card {
+    background-color: hsl(0, 0%, 100%);
+    left: 50%;
+    margin: 0;
+    margin-right: -50%;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 280px;
+}
+
+
+.color-dark-blue {
+    color: hsl(218, 44%, 22%);
+}
+
+.color-light-gray {
+    color: hsl(212, 45%, 89%);
+}
+
+.color-grayish-blue {
+    color: hsl(220, 15%, 55%);
+}
+
+.color-white {
+    color: hsl(0, 0%, 100%);
+}
